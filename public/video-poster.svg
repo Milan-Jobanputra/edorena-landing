@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#161616"/>
+  <circle cx="640" cy="360" r="620" fill="#5E7CE2" opacity="0.06"/>
+  <circle cx="640" cy="360" r="56" fill="#0B0B0B" stroke="#2A2A2C" stroke-width="1.5"/>
+  <path d="M624 336l48 24-48 24z" fill="#5E7CE2"/>
+  <text x="640" y="470" font-family="Georgia, serif" font-style="italic" font-size="22" fill="#9A9A9E" text-anchor="middle">Watch the 2-minute story</text>
+</svg>
