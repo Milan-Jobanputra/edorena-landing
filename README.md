@@ -1,6 +1,6 @@
-# OrbitOS Landing Page
+# Edorena Landing Page
 
-A minimal, story-first landing page for OrbitOS. Built with Next.js 14
+A minimal, story-first landing page for Edorena. Built with Next.js 14
 (App Router), TypeScript, Tailwind CSS, and Framer Motion (subtle
 fade/slide-up only — no flashy animation).
 
@@ -12,7 +12,7 @@ fade/slide-up only — no flashy animation).
    until played, so it won't slow down the page.)
 
 2. **Update the app link**
-   The "Try OrbitOS" buttons point to:
+   The "Try Edorena" buttons point to:
    `https://orbit.inventive9.com/login`
    Change this constant (`APP_URL`) in `components/Hero.tsx` and
    `components/FinalCTA.tsx` if your app URL changes.
@@ -35,7 +35,7 @@ Visit http://localhost:3000
 2. Go to vercel.com → New Project → import the repo.
 3. Framework preset: Next.js (auto-detected). No environment variables
    are required for the current flow (no email collection — buttons
-   redirect straight to the OrbitOS app, per the current plan).
+   redirect straight to the Edorena app, per the current plan).
 4. Deploy.
 
 ## Structure
@@ -44,7 +44,7 @@ Visit http://localhost:3000
 - `components/Hero.tsx` — the emotional opening question
 - `components/StoryVideo.tsx` — your 2-minute video
 - `components/Problem.tsx` — three real-language cards
-- `components/WhyOrbit.tsx` — one-sentence positioning + the flow
+- `components/WhyEdorena.tsx` — one-sentence positioning + the flow
 - `components/Product.tsx` — CSS dashboard mock + three value cards
   (swap `DashboardMock` for a real screenshot `<Image>` any time —
   drop the file in `public/` and replace the mock markup)
@@ -64,7 +64,7 @@ Visit http://localhost:3000
 
 ## Notes on the "no email collection" decision
 
-Per the current plan, "Try OrbitOS" and "Try OrbitOS Alpha" link straight
+Per the current plan, "Try Edorena" and "Try Edorena Alpha" link straight
 to the app's own signup (Supabase Auth), rather than collecting an email
 on this page first. That keeps the funnel to: **Landing → Video → App →
 Signup**, with no duplicate email step. If you later want to track where

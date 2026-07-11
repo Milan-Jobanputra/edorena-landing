@@ -24,7 +24,7 @@ export default function Nav() {
           className="flex items-center gap-2 text-ink tracking-tight"
         >
           <span className="inline-block h-2 w-2 rounded-full bg-accent" />
-          <span className="font-medium text-[15px]">OrbitOS</span>
+          <span className="font-medium text-[15px]">Edorena</span>
         </a>
 
         <div className="flex items-center gap-6 md:gap-8 text-[14px]">
@@ -38,7 +38,7 @@ export default function Nav() {
             href="https://orbit.inventive9.com/login"
             className="rounded-full bg-ink text-bg px-4 py-2 font-medium hover:bg-accent hover:text-white transition-colors duration-300"
           >
-            Try OrbitOS
+            Try Edorena
           </a>
         </div>
       </nav>

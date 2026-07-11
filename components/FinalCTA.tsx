@@ -19,7 +19,7 @@ export default function FinalCTA() {
 
         <Reveal delay={0.08}>
           <h2 className="font-display italic font-light text-[2rem] md:text-[2.8rem] leading-tight max-w-3xl mx-auto balance">
-            OrbitOS is still in alpha.
+            Edorena is still in alpha.
             <br />
             <span className="text-accent not-italic">
               I&rsquo;m looking for people willing to give honest feedback.
@@ -36,7 +36,7 @@ export default function FinalCTA() {
               href={APP_URL}
               className="inline-flex items-center justify-center rounded-full bg-accent px-7 py-3.5 text-[15px] font-medium text-white hover:bg-[#4C69C9] transition-colors duration-300"
             >
-              Try OrbitOS
+              Try Edorena
             </a>
             <a
               href="#story"

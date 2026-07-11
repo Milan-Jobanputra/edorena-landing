@@ -18,16 +18,16 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "OrbitOS — Stay connected to what matters",
+  title: "Edorena — Stay connected to what matters",
   description:
-    "OrbitOS helps you notice when your daily decisions quietly move away from what you intended.",
+    "Edorena helps you notice when your daily decisions quietly move away from what you intended.",
   openGraph: {
-    title: "OrbitOS — Stay connected to what matters",
+    title: "Edorena — Stay connected to what matters",
     description:
-      "OrbitOS helps you notice when your daily decisions quietly move away from what you intended.",
+      "Edorena helps you notice when your daily decisions quietly move away from what you intended.",
     type: "website",
   },
-  metadataBase: new URL("https://orbitos.app"),
+  metadataBase: new URL("https://Edorena.app"),
 };
 
 export default function RootLayout({

@@ -59,7 +59,7 @@ export default function StoryVideo() {
 
         <Reveal delay={0.15}>
           <p className="mt-6 text-center text-faint text-[13px] tracking-wide font-sans">
-            Watch before trying OrbitOS.
+            Watch before trying Edorena.
           </p>
         </Reveal>
       </div>

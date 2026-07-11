@@ -14,7 +14,7 @@ export default function FounderStory() {
 
         <Reveal delay={0.1}>
           <p className="font-display italic font-light text-[1.4rem] md:text-[1.9rem] leading-relaxed max-w-2xl balance">
-            I built OrbitOS after one too many nights wondering where my day
+            I built Edorena after one too many nights wondering where my day
             actually went.
             <br />
             <br />
@@ -26,7 +26,7 @@ export default function FounderStory() {
             </span>
             <br />
             <br />
-            OrbitOS is my attempt to solve that.
+            Edorena is my attempt to solve that.
           </p>
           <p className="mt-6 text-faint text-[14px] font-sans">
             — Milan Jobanputra, founder

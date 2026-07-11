@@ -12,7 +12,7 @@ export default function SocialProof() {
       <div className="max-w-content mx-auto">
         <Reveal>
           <p className="text-center text-faint text-[12px] tracking-[0.14em] uppercase mb-8">
-            Things people say before they find OrbitOS
+            Things people say before they find Edorena
           </p>
         </Reveal>
 

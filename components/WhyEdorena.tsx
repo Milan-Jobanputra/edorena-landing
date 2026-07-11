@@ -8,7 +8,7 @@ const flow = [
   { label: "Insights", note: "See patterns that memory misses." },
 ];
 
-export default function WhyOrbit() {
+export default function WhyEdorena() {
   return (
     <section className="px-6 py-28 md:py-36 border-t border-border">
       <div className="max-w-content mx-auto">
@@ -17,7 +17,7 @@ export default function WhyOrbit() {
             Most productivity tools help you organize tasks.
             <br />
             <span className="text-accent not-italic">
-              OrbitOS helps you stay connected to what you decided matters.
+              Edorena helps you stay connected to what you decided matters.
             </span>
           </p>
         </Reveal>

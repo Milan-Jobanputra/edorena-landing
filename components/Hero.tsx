@@ -51,7 +51,7 @@ export default function Hero() {
           transition={{ duration: 0.9, delay: 0.25, ease: [0.22, 1, 0.36, 1] }}
           className="mt-8 max-w-xl text-muted text-[17px] md:text-[18px] leading-relaxed font-sans"
         >
-          OrbitOS helps you stay connected to what matters when daily
+          Edorena helps you stay connected to what matters when daily
           decisions quietly pull your attention elsewhere.
         </motion.p>
 
@@ -81,7 +81,7 @@ export default function Hero() {
             id="try"
             className="inline-flex items-center justify-center rounded-full bg-accent px-6 py-3 text-[15px] font-medium text-white hover:bg-[#4C69C9] transition-colors duration-300"
           >
-            Try OrbitOS Alpha
+            Try Edorena Alpha
           </a>
         </motion.div>
       </div>
