@@ -13,7 +13,7 @@ fade/slide-up only — no flashy animation).
 
 2. **Update the app link**
    The "Try Edorena" buttons point to:
-   `https://orbit.inventive9.com/login`
+   `https://app.edorena.com/login`
    Change this constant (`APP_URL`) in `components/Hero.tsx` and
    `components/FinalCTA.tsx` if your app URL changes.
 

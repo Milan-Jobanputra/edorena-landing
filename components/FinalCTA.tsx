@@ -1,6 +1,6 @@
 import Reveal from "./Reveal";
 
-const APP_URL = "https://orbit.inventive9.com/login";
+const APP_URL = "https://app.edorena.com/login";
 
 export default function FinalCTA() {
   return (
