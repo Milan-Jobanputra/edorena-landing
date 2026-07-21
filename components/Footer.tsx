@@ -10,7 +10,7 @@ export default function Footer() {
             
           </a>
           <a
-            href="mailto:wpexpert8@gmail.com"
+            href="mailto:edorena.ai@gmail.com"
             className="hover:text-ink transition-colors duration-300"
           >
             Contact
@@ -23,7 +23,20 @@ export default function Footer() {
           >
             LinkedIn
           </a>
+           <a
+            href="/privacy"
+            className="hover:text-ink transition-colors duration-300"
+          >
+            Privacy
+          </a>
+           <a
+            href="/terms"
+            className="hover:text-ink transition-colors duration-300"
+          >
+            Terms
+          </a>
         </div>
+       
       </div>
     </footer>
   );
