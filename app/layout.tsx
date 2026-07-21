@@ -27,7 +27,7 @@ export const metadata: Metadata = {
       "Edorena helps you notice when your daily decisions quietly move away from what you intended.",
     type: "website",
   },
-  metadataBase: new URL("https://Edorena.app"),
+  metadataBase: new URL("https://edorena.com"),
 };
 
 export default function RootLayout({

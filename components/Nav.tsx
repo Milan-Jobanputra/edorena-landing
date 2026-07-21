@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import Image from "next/image";
 
 export default function Nav() {
   const [scrolled, setScrolled] = useState(false);
@@ -20,11 +21,18 @@ export default function Nav() {
     >
       <nav className="max-w-content mx-auto flex items-center justify-between px-6 md:px-10 h-16">
         <a
-          href="#top"
-          className="flex items-center gap-2 text-ink tracking-tight"
-        >
-          <span className="inline-block h-2 w-2 rounded-full bg-accent" />
-          <span className="font-medium text-[15px]">Edorena</span>
+                  href="#top"
+                  className="flex items-center gap-3 text-ink tracking-tight"
+                >
+                <Image
+                  src="/Edorena-logo.png"
+                  alt="Edorena"
+                  width={150}
+                  height={50}
+                  priority
+                  className="rounded-md"
+                />
+
         </a>
 
         <div className="flex items-center gap-6 md:gap-8 text-[14px]">
