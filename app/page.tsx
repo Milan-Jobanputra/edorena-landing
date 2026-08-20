@@ -9,6 +9,7 @@ import BuiltFor from "@/components/BuiltFor";
 import FounderStory from "@/components/FounderStory";
 import FinalCTA from "@/components/FinalCTA";
 import Footer from "@/components/Footer";
+import FullDemo from "@/components/FullDemo";
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
       <SocialProof />
       <WhyEdorena />
       <Product />
+      <FullDemo />
       <BuiltFor />
       <FounderStory />
       <FinalCTA />

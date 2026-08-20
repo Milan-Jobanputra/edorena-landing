@@ -42,6 +42,12 @@ export default function Nav() {
           >
             Story
           </a>
+
+          <a href="#demo"
+            className="text-muted hover:text-ink transition-colors duration-300"
+            >
+            How to use Edorena
+          </a>
           <a
             href="https://app.edorena.com/login"
             className="rounded-full bg-ink text-bg px-4 py-2 font-medium hover:bg-accent hover:text-white transition-colors duration-300"
